@@ -20,3 +20,6 @@
 
 ![screenshot from 2019-01-01 16-27-35](https://user-images.githubusercontent.com/17770615/51889717-34104b00-23d5-11e9-80a8-3af3504073da.png)
 
+# APK FILE
+
+Amazon App Store : https://www.amazon.com/Unifreelancer-Pomodoro-Timer/dp/B07MDTCZK8/

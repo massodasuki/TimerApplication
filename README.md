@@ -2,6 +2,12 @@
 
 # Podomoro
 
+# Diagram
+
+1. UML Class Diagram
+
+![diagram1](https://user-images.githubusercontent.com/17770615/51954841-b0119e00-247c-11e9-85cf-95d4ab88aff6.png)
+
 
 # Emulator
 
